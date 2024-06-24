@@ -6,8 +6,8 @@
 
 ### Fundamentals
 #### Lecture Information
-__Date:__ 9th of July 2024 Tuesday
-__Lecturer:__ Ali Davut Eskiocak
+* __Date:__ 9th of July 2024 Tuesday
+* __Lecturer:__ Ali Davut Eskiocak
 #### Topics
 * Introduction to CPP (Class, I/O operations, Vectors, Strings)
 * Big-O Notation
@@ -17,8 +17,8 @@ __Lecturer:__ Ali Davut Eskiocak
 
 ### Data Structures 1
 #### Lecture Information
-__Date:__ 12th of July 2024 Friday
-__Lecturer:__ Ali Davut Eskiocak
+* __Date:__ 12th of July 2024 Friday
+* __Lecturer:__ Ali Davut Eskiocak
 #### Topics
 * Linked List
 * Stack & Queue & Priority Queue
@@ -27,8 +27,8 @@ __Lecturer:__ Ali Davut Eskiocak
 
 ### Divide & Conquer
 #### Lecture Information
-__Date:__ 16th of July 2024 Tuesday
-__Lecturer:__ Ali Kemal Coşkun
+* __Date:__ 16th of July 2024 Tuesday
+* __Lecturer:__ Ali Kemal Coşkun
 #### Topics
 * Merge Sort
 * Counting Inversions
@@ -37,8 +37,8 @@ __Lecturer:__ Ali Kemal Coşkun
 
 ### Math
 #### Lecture Information
-__Date:__ 19th of July 2024 Friday
-__Lecturer:__ Anıl Dervişoğlu
+* __Date:__ 19th of July 2024 Friday
+* __Lecturer:__ Anıl Dervişoğlu
 #### Topics
 * Factorization & Prime numbers & Sieve
 * GCD & LCM
@@ -48,8 +48,8 @@ __Lecturer:__ Anıl Dervişoğlu
 
 ### Array
 #### Lecture Information
-__Date:__ 23rd of July 2024 Tuesday
-__Lecturer:__ Ali Kemal Coşkun
+* __Date:__ 23rd of July 2024 Tuesday
+* __Lecturer:__ Ali Kemal Coşkun
 #### Topics
 * Prefix Sum
 * Sliding Window
@@ -59,16 +59,16 @@ __Lecturer:__ Ali Kemal Coşkun
 
 ### Data Structures 2
 #### Lecture Information
-__Date:__ 26th of July 2024 Friday
-__Lecturer:__ Fatih Baskın
+* __Date:__ 26th of July 2024 Friday
+* __Lecturer:__ Fatih Baskın
 #### Topics
 * Heaps (Min - Max)
 * Heap Sort
 
 ### Graph 1
 #### Lecture Information
-__Date:__ 30th of July 2024 Tuesday
-__Lecturer:__ Fatih Baskın
+* __Date:__ 30th of July 2024 Tuesday
+* __Lecturer:__ Fatih Baskın
 #### Topics
 * Terms of Graphs & Trees
 * Representation of Graphs & Trees
@@ -76,8 +76,8 @@ __Lecturer:__ Fatih Baskın
 
 ### Graph 2
 #### Lecture Information
-__Date:__ 2nd of August 2024 Friday
-__Lecturer:__ Kemal Tahir Bıcılıoğlu
+* __Date:__ 2nd of August 2024 Friday
+* __Lecturer:__ Kemal Tahir Bıcılıoğlu
 #### Topics
 * Topological Sort
 * Tree Traversals
@@ -85,8 +85,8 @@ __Lecturer:__ Kemal Tahir Bıcılıoğlu
 
 ### Graph 3
 #### Lecture Information
-__Date:__ 6th of August 2024 Tuesday
-__Lecturer:__ Fatih Çakır
+* __Date:__ 6th of August 2024 Tuesday
+* __Lecturer:__ Fatih Çakır
 #### Topics
 * Dijkstra
 * Union Find
@@ -95,16 +95,16 @@ __Lecturer:__ Fatih Çakır
 
 ### Greedy
 #### Lecture Information
-__Date:__ 9th of August 2024 Friday
-__Lecturer:__ Kemal Tahir Bıcılıoğlu
+* __Date:__ 9th of August 2024 Friday
+* __Lecturer:__ Kemal Tahir Bıcılıoğlu
 #### Topics
 * Coin Problem
 * Interval Scheduling & Interval Partitioning & Minimizing Lateness
 
 ### DP 1
 #### Lecture Information
-__Date:__ 13th of August 2024 Tuesday
-__Lecturer:__ Fatih Çakır
+* __Date:__ 13th of August 2024 Tuesday
+* __Lecturer:__ Fatih Çakır
 #### Topics
 * Greedy vs DP
 * Fibonacci
@@ -112,8 +112,8 @@ __Lecturer:__ Fatih Çakır
 
 ### DP 2
 #### Lecture Information
-__Date:__ 16th of August 2024 Friday
-__Lecturer:__ Murat Biberoğlu
+* __Date:__ 16th of August 2024 Friday
+* __Lecturer:__ Murat Biberoğlu
 #### Topics
 * Knapsack Problem (0-1 / Unbounded)
 * Longest Increasing Subsequence & Longest Common Subsequence

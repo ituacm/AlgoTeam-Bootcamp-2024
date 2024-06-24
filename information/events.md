@@ -1,4 +1,4 @@
-## Events
+## AlgoTeam Bootcamp 2024 Special Events
 
 ### Mid Contest
 * To be decided

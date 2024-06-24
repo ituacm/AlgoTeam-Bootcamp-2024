@@ -1,11 +1,13 @@
-## Mid Contest
+## Events
+
+### Mid Contest
 * To be decided
 
-## Final Contest
+### Final Contest
 * To be decided
 
-## Mock Interview
+### Mock Interview
 * To be decided
 
-## GitHub Editorial Homework
+### GitHub Editorial Homework
 * To be decided

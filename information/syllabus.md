@@ -38,7 +38,7 @@ __Lecturer:__ Ali Kemal Coşkun
 ### Math
 #### Lecture Information
 __Date:__ 19th of July 2024 Friday
-__Lecturer:__ Fatih Baskın
+__Lecturer:__ Anıl Dervişoğlu
 #### Topics
 * Factorization & Prime numbers & Sieve
 * GCD & LCM
@@ -68,7 +68,7 @@ __Lecturer:__ Fatih Baskın
 ### Graph 1
 #### Lecture Information
 __Date:__ 30th of July 2024 Tuesday
-__Lecturer:__ Kemal Tahir Bıcılıoğlu
+__Lecturer:__ Fatih Baskın
 #### Topics
 * Terms of Graphs & Trees
 * Representation of Graphs & Trees
@@ -96,7 +96,7 @@ __Lecturer:__ Fatih Çakır
 ### Greedy
 #### Lecture Information
 __Date:__ 9th of August 2024 Friday
-__Lecturer:__ Murat Biberoğlu
+__Lecturer:__ Kemal Tahir Bıcılıoğlu
 #### Topics
 * Coin Problem
 * Interval Scheduling & Interval Partitioning & Minimizing Lateness

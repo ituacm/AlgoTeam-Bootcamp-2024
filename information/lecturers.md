@@ -7,6 +7,7 @@
 The list of lecturers and their contact information.
 
 | Lecturer's Name        | Role     | GitHub                                                  | LinkedIn                                                        |
+|------------------------|----------|---------------------------------------------------------|-----------------------------------------------------------------|
 | Ali Davut Eskiocak     | Lecturer | [![GitHub][1]](https://github.com/alidavid1)            | [![LinkedIn][2]](https://www.linkedin.com/in/ali-kemal-coskun/) |
 | Ali Emre Kaya          | Mentor   | [![GitHub][1]](https://github.com/aliemre2023)          | [![LinkedIn][2]](https://www.linkedin.com/in/aliemre2023/)      |
 | Ali Kemal Coşkun       | Lecturer | [![GitHub][1]](https://github.com/alikemalcoskun)       | [![LinkedIn][2]](https://www.linkedin.com/in/ali-kemal-coskun/) |

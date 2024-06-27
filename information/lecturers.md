@@ -16,3 +16,4 @@ The list of lecturers and their contact information.
 | Fatih Baskın           | Lecturer | [![GitHub][1]](https://github.com/fthbaskin)            | [![LinkedIn][2]](https://www.linkedin.com/in/fthbaskin/)        |
 | Kemal Tahir Bıcılıoğlu | Lecturer | [![GitHub][1]](https://github.com/kemaltahirbicilioglu) | -                                                               |
 | Murat Biberoğlu        | Lecturer | [![GitHub][1]](https://github.com/muratbiberoglu)       | [![LinkedIn][2]](https://www.linkedin.com/in/muratbiberoglu/)   |
+| Rojen Arda Şeşen       | Mentor   | [![GitHub][1]](https://github.com/rojenarda)            | [![LinkedIn][2]](https://www.linkedin.com/in/rojenarda/)        |

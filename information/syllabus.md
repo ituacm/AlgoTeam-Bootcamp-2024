@@ -18,7 +18,7 @@
 ### Data Structures 1
 #### Lecture Information
 * __Date:__ 12th of July 2024 Friday
-* __Lecturer:__ Ali Davut Eskiocak
+* __Lecturer:__ Fatih Baskın
 #### Topics
 * Linked List
 * Stack & Queue & Priority Queue

@@ -14,7 +14,8 @@ public:
          * If n = 5, then this logic will check:
          * word[0] == word[4]
          * word[1] == word[3]
-         * word[2] == word[2]
+         * word[2] will not be checked since 5/2 = 2 (int division) and we don't need to check it either since it is 
+         * in the middle of the string.
          *
          * If n = 6, then this logic will check:
          * word[0] == word[5]

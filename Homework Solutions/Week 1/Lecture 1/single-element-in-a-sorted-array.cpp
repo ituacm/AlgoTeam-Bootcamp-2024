@@ -17,7 +17,11 @@ public:
         int right = nums.size() - 1;
 
         while (left < right) {
-            // Calculate the middle index
+            /* 
+            The calculation `mid = left + (right - left) / 2` is preferred over `mid = (left + right) / 2` to prevent 
+            potential integer overflow that can occur when `left` and `right` are large. By computing `(right - left)` first,
+            the expression remains within a safe range, ensuring accurate middle index calculation.
+            */
             int mid = left + (right - left) / 2;
 
             // Ensure mid is even for proper pair comparison

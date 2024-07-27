@@ -1,6 +1,9 @@
 // Ali Emre Kaya
 // Question Link: https://leetcode.com/problems/single-element-in-a-sorted-array/
 
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+
 /*
 The problem requires finding the single element in a sorted array where all other elements appear exactly twice.
 We can find it with visiting all the element (brute force approach) until see sngle eleemnt, it's time complexity will be O(n) and will not pass.

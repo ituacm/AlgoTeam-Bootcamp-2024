@@ -1,3 +1,6 @@
+// Author: Murat Biberoglu
+// Question Link: https://leetcode.com/problems/longest-common-prefix/
+
 class Solution {
     public:
         string longestCommonPrefix(vector<string>& strs) {
@@ -12,7 +15,7 @@ class Solution {
 
             // Initialize an empty string to store the common prefix
             string ans = "";
-            
+
             // Loop through each character index up to the minimum string length
             for(int i=0; i < minLength; i++) {
                 // Compare characters at the current index across all strings

@@ -12,6 +12,9 @@
     trying to put a place that no element will appaer in the mid index.
     That is impossible. So, basically sort the array and return the mid element.    
 */
+// note: using quick sort makes runtime too much because of its worst case scenario O(n^2). Using built-in sort
+// is much faster than using our quick sort function. Check out how cpp sort works:
+// https://www.geeksforgeeks.org/introsort-cs-sorting-weapon/
 
 class Solution {
 public:

@@ -1,4 +1,5 @@
 // Author: Ali Emre Kaya
+// Reviewer: Fatih Baskin
 
 // Time Complexity: O(√n*log(n))
 // Space Complexity: O(1)
@@ -30,6 +31,8 @@ Steps:
    - Multiply the contributions: 121 * 61 * 61 = 450.241
 */
 
+// Thaks to Anıl for code
+
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -49,11 +52,11 @@ int main() {
             n /= i;
             exp++;
         }
-        ans *= (power * exp) % mod + 1;
+        (ans *= power * exp % mod + 1) %= mod;
     }
     // If n is still greater than 1, it means n is prime, and has an exponent of 1
     if (n > 1){
-        ans *= (power * 1) % mod + 1;
+        (ans *= power % mod + 1) %= mod;
     }
     cout << ans << "\n";
 }

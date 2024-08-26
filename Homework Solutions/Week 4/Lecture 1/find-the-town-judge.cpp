@@ -1,8 +1,20 @@
 // Author: Ali Emre Kaya
+// Reviewer: Anıl Dervişoğlu
 // Question link: https://leetcode.com/problems/find-the-town-judge
 
 // Time complexity: O(n)
 // Space complexity: O(n)
+
+/*
+Approach: 
+The problem can be solved efficiently using a single array to track the trust relationships.
+
+We iterate through the trust array, and for each pair, 
+we decrement the score of the person who trusts someone and increment the score of the person who is trusted. 
+
+The decrement ensures that the person who trusts someone cannot be the judge. 
+The increment reflects how much others trust the person.
+*/
 
 class Solution {
 public:
